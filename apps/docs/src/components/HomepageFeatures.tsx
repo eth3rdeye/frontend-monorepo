@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '"Don\'t trust. Verify"',
     image: '/img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The crypto mantra applied to psychic practitioners. Verifiable ESP tests on-chain easily started and open for participation worldwide. Fully open-source, auditable and verifiable.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Community DeSci',
     image: '/img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Exploring remote viewing and Local Sidereal Time hypotheses. A community of explorers passionate about discovering the frontiers of the human condition.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Open-Source Public Goods',
     image: '/img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        A commitment to transparency and community using open-source software to collaboratively build the tools, resources and interfaces for facilitating psi experiments.
       </>
     ),
   },
