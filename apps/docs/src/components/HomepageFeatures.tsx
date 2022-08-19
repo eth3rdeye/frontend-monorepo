@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     image: '/img/undraw_docusaurus_react.svg',
     description: (
       <>
-        A commitment to transparency and community using open-source software to collaboratively build the tools, resources and interfaces for facilitating psi experiments.
+        A commitment to transparency and community using open-source software to collaboratively build the tools, resources and interfaces for understanding and tracking human psychic performance.
       </>
     ),
   },

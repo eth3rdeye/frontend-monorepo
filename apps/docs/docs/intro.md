@@ -1,33 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-nx generate @nx-plus/docusaurus:app my-app
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-nx serve my-app
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+For the longest time, the gatekeepers of science in the academic world have decided what qualifies as real science and what is considered “pseudoscience”. A decentralized science (DeSci) movement is ensuring that the barriers of scientific discourse are opening up to new frontiers, and fresh perspectives are being encouraged from untapped sources. It is time that we open up our collective “third eye” to the possibilities that our subconscious mind has to offer and drop inhibitions to explore the unknown. E3rdEye intends to improve credibility, transparency and integrity in the space of alternative esoteric sciences. Our state-of-the-art solution brings the mantra "don't trust, verify" to the clients of psychic practitioners.
