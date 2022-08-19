@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "dapp": "apps/dapp",
-    "dapp-e2e": "apps/dapp-e2e"
+    "dapp-e2e": "apps/dapp-e2e",
+    "docs": "apps/docs"
   }
 }
