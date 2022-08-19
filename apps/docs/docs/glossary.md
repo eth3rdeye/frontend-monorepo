@@ -12,4 +12,4 @@ TODO: User friendly explanation of the Ethereum Virtual Machine.
 Hashing or a hash function is a one-way mathematical transformation of an input, like a word, such that the output is a meaningless sequence of letters and numbers. Unless the input is known, the hash output is meaningless. The hash function is how the `Session` `target` is kept secret on-chain.
 
 ## Solidity
-Solidity is the dominant programming language used by the [EVM](#evm).
+Solidity is a high-level programming language used to code software that executes within the [EVM](#evm) environment.
