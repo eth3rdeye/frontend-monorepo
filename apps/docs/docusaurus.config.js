@@ -68,11 +68,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentation',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'System Overview',
+                to: '/docs/how-it-works/system-overview',
               },
             ],
           },
@@ -88,10 +88,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/eth3rdeye',
@@ -99,7 +99,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Eth3rdEye. Built with Docusaurus.`,
+        copyright: `Eth3rdEye Community Volunteers. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
