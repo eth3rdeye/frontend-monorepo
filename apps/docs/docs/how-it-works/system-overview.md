@@ -7,9 +7,8 @@ sidebar_label: System Overview
 
 The following pages will help you to understand:
 
-- The different types of users
-- How the smart contract works
-- How the app works
+- The different [types of users](#user-types)
+- How the dApp front-end works with the smart contract
 
 ## Sessions
 
@@ -31,5 +30,5 @@ struct Session  {
 ### Tasker
 These users create one or more `Session`s. They choose the `target` word, and later reveal it after predictions have been submitted.
 
-### Viewer
-The `Viewer` is the user who uses psychic intuition to guess the contents of the secret `target` for a particular session.
+### Psychic
+The `Psychic` is the user who uses psychic intuition to guess the contents of the secret `target` for a particular session.
