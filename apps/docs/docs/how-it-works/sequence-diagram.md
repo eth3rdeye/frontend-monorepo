@@ -9,9 +9,11 @@ These diagrams show the sequence of entities and steps in a visual format.
 
 ![Image of Eth3rdWorkflow](/img/tutorial/Eth3rdEye.svg)
 
+<details>
+
+<summary>Sequence Diagram text</summary>
+
 This diagram was created using the following text at [SequenceDiagram.org](https://sequencediagram.org)
-
-
 ```
 title Eth3rdEye
 
@@ -31,3 +33,5 @@ Psychic->Eth3rdEye.sol: Invoke\nclaimAccuracy
 note over Eth3rdEye.sol: Check prediction\nmatches target
 note over Eth3rdEye.sol: Save accuracy
 ```
+
+</details>
