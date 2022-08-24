@@ -40,7 +40,7 @@ As an end user, you do not need to know to calculate the output of the hash func
 
 ## Starting a session
 
-The [`Tasker`](/docs/system-overview#tasker) is responsible for selecting a secret value. The `sessionIndex` identifies a session. The front-end will create the salt and hash the target to create the `targetCommitment`. Both of these are provided as arguments to the `createSession` function.
+The [`Tasker`](/docs/how-it-works/system-overview#tasker) is responsible for selecting a secret value. The `sessionIndex` identifies a session. The front-end will create the salt and hash the target to create the `targetCommitment`. Both of these are provided as arguments to the `createSession` function.
 
 ```solidity title="contracts/src/Eth3rdEye.sol"
   function startSession( uint16 sessionIndex, bytes32 commitment ) public {
